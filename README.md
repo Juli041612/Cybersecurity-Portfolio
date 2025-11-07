@@ -15,7 +15,7 @@ My goal is to start my career as a **Security Analyst** and keep improving every
 - **Project:** Botium Toys – Security Risk Assessment  
 - **Description:** Evaluated assets, risk levels, and compliance based on NIST CSF framework.  
 - **Skills:** Risk analysis, reporting, compliance review.  
-- **File:** [Botium_Toys_Risk_Assessment.pdf](./Risk_Assessment/Botium_Toys_Risk_Assessment.pdf)
+- **File:** [Botium_Toys_Risk_Assessment.pdf](./Botium-Toys-Scope-goals-and-risk-assessment-report.pdf)
 
 ### 🔹 Compliance Checklist
 - **Project:** Botium Toys – Controls & Compliance Checklist  
