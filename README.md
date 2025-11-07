@@ -20,4 +20,4 @@ My goal is to start my career as a **Security Analyst** and keep improving every
 ### 🔹 Compliance Checklist
 - **Project:** Botium Toys – Controls & Compliance Checklist  
 - **Description:** Reviewed internal controls and compliance with PCI DSS, GDPR, SOC2.  
-- **File:** [Controls_Compliance_Checklist.pdf](./Compliance_Checklists/Controls_Compliance_Checklist.pdf)
+- **File:** [Controls_Compliance_Checklist.pdf](./Controls-and-compliance-checklist.pdf)
