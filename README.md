@@ -28,3 +28,7 @@ My goal is to start my career as a **Security Analyst** and keep improving every
 - 🧾 **Linux and SQL for Cybersecurity** (In Progress)
 
 ---
+# 📫 Contact
+**LinkedIn:** [www.linkedin.com/in/julián-jiménez-quirós-74a698346]  
+**GitHub:** [Your GitHub URL]  
+**Email:** [julianjq9@gmail.com]
