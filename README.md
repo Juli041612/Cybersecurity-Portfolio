@@ -9,3 +9,15 @@ including risk assessments, compliance checklists, and network analysis reports.
 My goal is to start my career as a **Security Analyst** and keep improving every day.
 
 ---
+# 🧰 Projects
+
+### 🔹 Risk Assessment
+- **Project:** Botium Toys – Security Risk Assessment  
+- **Description:** Evaluated assets, risk levels, and compliance based on NIST CSF framework.  
+- **Skills:** Risk analysis, reporting, compliance review.  
+- **File:** [Botium_Toys_Risk_Assessment.pdf](./Risk_Assessment/Botium_Toys_Risk_Assessment.pdf)
+
+### 🔹 Compliance Checklist
+- **Project:** Botium Toys – Controls & Compliance Checklist  
+- **Description:** Reviewed internal controls and compliance with PCI DSS, GDPR, SOC2.  
+- **File:** [Controls_Compliance_Checklist.pdf](./Compliance_Checklists/Controls_Compliance_Checklist.pdf)
