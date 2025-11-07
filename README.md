@@ -30,5 +30,5 @@ My goal is to start my career as a **Security Analyst** and keep improving every
 ---
 # 📫 Contact
 **LinkedIn:** [www.linkedin.com/in/julián-jiménez-quirós-74a698346]  
-**GitHub:** [Your GitHub URL]  
+**GitHub:** [github.com/Juli041612]  
 **Email:** [julianjq9@gmail.com]
