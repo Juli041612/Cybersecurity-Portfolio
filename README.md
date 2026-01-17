@@ -33,6 +33,12 @@ My goal is to start my career as a **Security Analyst** and keep improving every
 - **Description:** Analyzed and modified file and directory permissions in a Linux environment to ensure proper user and group access. Used core Linux commands to inspect existing permissions and adjust them according to security requirements, reinforcing the principle of least privilege.  
 - **Skills:** Linux permissions, access control, chmod, ls -la, user/group management, security fundamentals.  
 - **File:** [File permissions in Linux .pdf](./File-permissions-in-Linux.pdf)
+
+### 🔹 Vulnerability Assessment Report
+- **Project:** Server Vulnerability & Risk Assessment  
+- **Description:** Conducted a vulnerability and risk assessment on a Linux-based server hosting a MySQL database containing sensitive customer and analytics data. Evaluated access controls and exposure risks using the NIST SP 800-30 Rev. 1 framework. Identified threat sources, assessed likelihood and impact, calculated risk levels, and proposed remediation strategies to protect sensitive information and ensure database privacy.  
+- **Skills:** Vulnerability assessment, risk analysis, NIST SP 800-30, access control evaluation, threat modeling, security reporting, principle of least privilege, MFA.  
+- **File:** [Vulnerability_Assessment_Report.pdf](./Vulnerability-assessment-report-template.pdf)
 - 
 ---
 - # 🧩 Certifications and Learning
