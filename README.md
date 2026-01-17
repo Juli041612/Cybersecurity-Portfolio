@@ -32,7 +32,7 @@ My goal is to start my career as a **Security Analyst** and keep improving every
 - **Project:** Linux File Permissions Management  
 - **Description:** Analyzed and modified file and directory permissions in a Linux environment to ensure proper user and group access. Used core Linux commands to inspect existing permissions and adjust them according to security requirements, reinforcing the principle of least privilege.  
 - **Skills:** Linux permissions, access control, chmod, ls -la, user/group management, security fundamentals.  
-- **File:** [File permissions in Linux .pdf](./File permissions in Linux.pdf)
+- **File:** [File permissions in Linux .pdf](./File_permissions_in_Linux.pdf)
 - 
 ---
 - # 🧩 Certifications and Learning
