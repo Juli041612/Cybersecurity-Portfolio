@@ -45,7 +45,13 @@ My goal is to start my career as a **Security Analyst** and keep improving every
 - **Description:** Documented and analyzed multiple simulated cybersecurity incidents following an incident handler’s journal format. Each entry captured the 5 W’s (Who, What, When, Where, Why) for incidents involving phishing, ransomware, malware delivery via email attachments, and large-scale data breaches. The project emphasizes incident analysis, root cause identification, and security awareness from a SOC analyst perspective.  
 - **Skills:** Incident response fundamentals, incident documentation, phishing analysis, ransomware awareness, malware analysis, VirusTotal, security awareness, critical thinking.  
 - **File:** [Incident_Handlers_Journal.pdf](./Incident-handler-s-journal-.pdf)
-- 
+
+### 🔹 Algorithm for File Updates in Python
+- **Project:** Access Control Automation with Python  
+- **Description:** Developed a Python-based algorithm to maintain an IP allow list for restricted network access in a healthcare environment. The script reads authorized IP addresses from a file, compares them against a removal list, removes unauthorized entries, and updates the original file. This project demonstrates automation of access control tasks while reinforcing the principle of least privilege.  
+- **Skills:** Python, file handling, access control automation, loops and conditionals, list manipulation, cybersecurity fundamentals, principle of least privilege.  
+- **File:** [Python_Access_Control_Algorithm.pdf](./Algorithm-for-file-updates-in-Python.pdf)
+  
 ---
 - # 🧩 Certifications and Learning
 - 🎓 **Google Cybersecurity Certificate** (In Progress)
