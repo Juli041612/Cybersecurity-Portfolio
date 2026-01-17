@@ -39,6 +39,12 @@ My goal is to start my career as a **Security Analyst** and keep improving every
 - **Description:** Conducted a vulnerability and risk assessment on a Linux-based server hosting a MySQL database containing sensitive customer and analytics data. Evaluated access controls and exposure risks using the NIST SP 800-30 Rev. 1 framework. Identified threat sources, assessed likelihood and impact, calculated risk levels, and proposed remediation strategies to protect sensitive information and ensure database privacy.  
 - **Skills:** Vulnerability assessment, risk analysis, NIST SP 800-30, access control evaluation, threat modeling, security reporting, principle of least privilege, MFA.  
 - **File:** [Vulnerability_Assessment_Report.pdf](./Vulnerability-assessment-report-template.pdf)
+
+### 🔹 Incident Handler’s Journal
+- **Project:** Cybersecurity Incident Handling Journal  
+- **Description:** Documented and analyzed multiple simulated cybersecurity incidents following an incident handler’s journal format. Each entry captured the 5 W’s (Who, What, When, Where, Why) for incidents involving phishing, ransomware, malware delivery via email attachments, and large-scale data breaches. The project emphasizes incident analysis, root cause identification, and security awareness from a SOC analyst perspective.  
+- **Skills:** Incident response fundamentals, incident documentation, phishing analysis, ransomware awareness, malware analysis, VirusTotal, security awareness, critical thinking.  
+- **File:** [Incident_Handlers_Journal.pdf](./Incident-handler-s-journal-.pdf)
 - 
 ---
 - # 🧩 Certifications and Learning
