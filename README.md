@@ -56,7 +56,7 @@ My goal is to start my career as a **Security Analyst** and keep improving every
 - **Project:** Enterprise-grade SIEM/XDR Implementation
 - **Description:** Deployed a centralized security monitoring infrastructure using Wazuh on a virtualized Ubuntu Server instance. I successfully integrated a Windows 10 endpoint agent to stream security telemetry, resolving hardware-level virtualization (BIOS) and networking conflicts during the process. The project focuses on centralizing logs and monitoring unauthorized access attempts in a hybrid environment.
 - **Skills:** SIEM/XDR configuration, Linux Server administration, Troubleshooting (BIOS/Virtualization), Network configuration, SOC monitoring fundamentals.
-- **File:** Wazuh Implementation Report.pdf
+- **File:** [Wazuh Implementation Report.pdf](./Project_Login_Fails.pdf)
 
 ###🔷 Vulnerability Management & Root Cause Analysis
 - **Project:** Proactive Threat Detection and Patch Analysis
