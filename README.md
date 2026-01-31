@@ -66,7 +66,8 @@ My goal is to start my career as a **Security Analyst** and keep improving every
   
 ---
 - # 🧩 Certifications and Learning
-- 🎓 **Google Cybersecurity Certificate** (In Progress)
+- B.S. in Computer Engineering – UNED (In Progress)
+- 🎓 **Google Cybersecurity Certificate** (Done)
 - 💻 **TryHackMe Pre-Security Path** (In Progress)
 - 🧾 **Linux and SQL for Cybersecurity** (Done)
 
