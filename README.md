@@ -51,12 +51,24 @@ My goal is to start my career as a **Security Analyst** and keep improving every
 - **Description:** Developed a Python-based algorithm to maintain an IP allow list for restricted network access in a healthcare environment. The script reads authorized IP addresses from a file, compares them against a removal list, removes unauthorized entries, and updates the original file. This project demonstrates automation of access control tasks while reinforcing the principle of least privilege.  
 - **Skills:** Python, file handling, access control automation, loops and conditionals, list manipulation, cybersecurity fundamentals, principle of least privilege.  
 - **File:** [Python_Access_Control_Algorithm.pdf](./Algorithm-for-file-updates-in-Python.pdf)
+
+### 🔷 SIEM Deployment & Real-Time Monitoring with Wazuh
+- **Project:** Enterprise-grade SIEM/XDR Implementation
+- **Description:** Deployed a centralized security monitoring infrastructure using Wazuh on a virtualized Ubuntu Server instance. I successfully integrated a Windows 10 endpoint agent to stream security telemetry, resolving hardware-level virtualization (BIOS) and networking conflicts during the process. The project focuses on centralizing logs and monitoring unauthorized access attempts in a hybrid environment.
+- **Skills:** SIEM/XDR configuration, Linux Server administration, Troubleshooting (BIOS/Virtualization), Network configuration, SOC monitoring fundamentals.
+- **File:** Wazuh Implementation Report.pdf
+
+###🔷 Vulnerability Management & Root Cause Analysis
+- **Project:** Proactive Threat Detection and Patch Analysis
+- **Description:** Configured and automated the Vulnerability Detection module in Wazuh to perform real-time correlation with global CVE databases. I identified critical security gaps (such as CVE-2023-32040) on a Windows endpoint and conducted a Root Cause Analysis (RCA), discovering that the vulnerabilities persisted due to the OS reaching its "End of Support" status.
+- **Skills:** Vulnerability Assessment, CVE Analysis, Root Cause Analysis (RCA), Patch Management strategies, Cybersecurity compliance mapping.
+- **File:** Vulnerability Assessment Report.pdf
   
 ---
 - # 🧩 Certifications and Learning
 - 🎓 **Google Cybersecurity Certificate** (In Progress)
 - 💻 **TryHackMe Pre-Security Path** (In Progress)
-- 🧾 **Linux and SQL for Cybersecurity** (In Progress)
+- 🧾 **Linux and SQL for Cybersecurity** (Done)
 
 ---
 # 📫 Contact
