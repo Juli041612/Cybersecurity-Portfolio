@@ -4,9 +4,9 @@ My name is Julian, and I am passionate about protecting people and organizations
 I enjoy analyzing systems, identifying vulnerabilities, and finding practical solutions.  
 I value integrity, responsibility, and continuous learning.  
 
-I’m currently completing the **Google Cybersecurity Certificate** and building my first cybersecurity projects,  
-including risk assessments, compliance checklists, and network analysis reports.  
-My goal is to start my career as a **Security Analyst** and keep improving every day.
+I´m a Entry-level Cybersecurity Analyst and Computer Engineering student with hands-on experience in SIEM deployment, vulnerability assessment, and incident response.
+Skilled in using tools like Wazuh to detect and analyze security events, including brute-force attacks.
+Passionate about defensive security, SOC operations, and continuous learning, with a strong foundation in Linux, networking, and Python automation.
 
 ---
 # 🧰 Projects
